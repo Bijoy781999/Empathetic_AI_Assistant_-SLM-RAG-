@@ -272,13 +272,6 @@ p-value     : < 0.0001  ✅ Statistically significant
 
 ---
 
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-Feel free to open a [GitHub Issue](https://github.com/YOUR_USERNAME/Empathetic_AI_Assistant_SLM_RAG) or submit a pull request.
-
----
-
 <div align="center">
 <picture>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Made%20with%20❤️%20to%20bring%20calm%20and%20comfort%20to%20our%20elders&fontSize=18&fontColor=fff&animation=twinkling&fontAlignY=36&desc=You%20are%20not%20alone.%20I%20am%20here%20with%20you.&descAlignY=58&descSize=16" width="100%"/>
